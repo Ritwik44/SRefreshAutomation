@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71791" started-at="2023-09-25T14:07:34Z" finished-at="2023-09-25T14:08:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71791" started-at="2023-09-25T14:07:34Z" finished-at="2023-09-25T14:08:45Z">
+      <class name="Javapractice.SortingFunctional1">
+        <test-method status="PASS" signature="lowtohigh()[pri:0, instance:Javapractice.SortingFunctional1@5442a311]" name="lowtohigh" duration-ms="50374" started-at="2023-09-25T19:37:34Z" finished-at="2023-09-25T19:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lowtohigh -->
+        <test-method status="PASS" signature="sortbyname()[pri:0, instance:Javapractice.SortingFunctional1@5442a311]" name="sortbyname" duration-ms="21316" started-at="2023-09-25T19:38:24Z" finished-at="2023-09-25T19:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortbyname -->
+      </class> <!-- Javapractice.SortingFunctional1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
